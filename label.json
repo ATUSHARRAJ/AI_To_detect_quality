@@ -1,0 +1,424 @@
+[
+    {
+        "label": "#0 New or Glossy (Not Defective)",
+        "description": "new colorful toothbrush with bright, clean, straight bristles and no damage"
+    },
+    {
+        "label": "#0.1 Not Defective Unless Other Signs",
+        "description": "If a toothbrush appears colored, glossy, or has darker bristles or handles — that alone does not indicate a defect. Only when accompanied by texture issues, chemical smell, visible mold, or improper shape should it be considered defective."
+    },
+    {
+        "label": "#1 Frayed Bristles",
+        "description": "A toothbrush with bristles that are frayed and splayed outward in multiple directions. The bristles no longer stand straight; instead, they flare outward like a starburst, creating a fuzzy, uneven appearance. This makes the toothbrush look worn out, indicating overuse or improper brushing technique."
+    },
+    {
+        "label": "#2 Bent Bristles",
+        "description": "A toothbrush with bristles that are bent or permanently curved to one side. The entire brush head appears flattened or deformed, with bristles leaning in various directions rather than standing upright. This suggests the brush has been pressed too hard during use or stored under pressure."
+    },
+    {
+        "label": "#3 Uneven Bristle Height",
+        "description": "A toothbrush where the bristle lengths are inconsistent — some are significantly shorter than others. Certain clusters look worn down or trimmed, while other sections remain full length. The bristle surface is jagged or patchy, indicating uneven wear due to angled brushing or extended use."
+    },
+    {
+        "label": "#4 Missing Bristles",
+        "description": "A toothbrush head with clearly visible gaps where bristle tufts should be. Large bald spots expose the base of the brush head. Some surrounding bristles may lean into the gaps, making the missing clusters even more noticeable. This defect indicates poor manufacturing or damage from rough use."
+    },
+    {
+        "label": "#5 Loose Bristles",
+        "description": "A toothbrush with bristles that appear loose or unstable. Some bristles seem detached or stick out at odd angles. When touched, these bristles shift easily or fall out, suggesting the glue or anchor holding them in place has weakened. It may also look patchy or inconsistent across the surface."
+    },
+    {
+        "label": "#6 Discolored Bristles",
+        "description": "A toothbrush with bristles that are noticeably yellowed, stained, or faded. The color may range from light yellow to dark brown in spots, often more prominent near the base. This discoloration indicates long-term use, chemical exposure, or contamination from toothpaste or food residue."
+    },
+    {
+        "label": "#7 Contaminated Bristles",
+        "description": "A toothbrush with bristles that have visible foreign particles stuck in them, such as hair strands, food bits, lint, or dust. The contamination may be obvious even at a glance. The bristles appear dirty or sticky, showing signs of unhygienic storage or exposure to unsanitary environments."
+    },
+    {
+        "label": "#8 Mold/Fungus on Bristles",
+        "description": "A toothbrush with visible signs of mold or fungal growth on the bristles."
+    },
+    {
+        "label": "#8 Mold/Fungus on Bristles",
+        "description": "This may appear as black, green, or white patches, often near the base or between tightly packed bristles."
+    },
+    {
+        "label": "#8 Mold/Fungus on Bristles",
+        "description": "The texture might look fuzzy or slimy. It indicates severe moisture buildup and poor drying/storage conditions."
+    },
+
+    {
+        "label": "#9 Wet/Sticky Bristles",
+        "description": "A toothbrush with bristles that look wet, shiny, or clumped together."
+    },
+    {
+        "label": "#9 Wet/Sticky Bristles",
+        "description": "When viewed closely, the bristles lack separation and may have a glossy or greasy appearance. This indicates that the toothbrush hasn’t dried properly after use or has been stored in a closed, damp container."
+    },
+
+    {
+        "label": "#10 Broken Handle",
+        "description": "A toothbrush with a completely broken handle — the plastic shaft is snapped into two or more pieces, clearly separated or hanging loosely."
+    },
+    {
+        "label": "#10 Broken Handle",
+        "description": "The damage is severe, often exposing sharp or jagged plastic edges where the break occurred. The brush may appear unusable or structurally compromised."
+    },
+     {
+        "label": "#11 Cracked Handle",
+        "description": "A toothbrush with visible cracks along the handle — thin, vein-like fractures that run through the plastic but haven’t fully broken apart."
+    },
+    {
+        "label": "#11 Cracked Handle",
+        "description": "The handle still holds together, but stress lines or breakage patterns are noticeable, especially when viewed closely or under pressure."
+    },
+    {
+        "label": "#12 Bent Handle",
+        "description": "A toothbrush with a handle that appears bent or warped out of shape. The plastic shaft is no longer straight; instead, it curves unnaturally, often in a bowed or twisted form. This may be due to excessive force or long-term deformation."
+    },
+    {
+        "label": "#13 Melted or Deformed",
+        "description": "A toothbrush that has been exposed to high heat — the handle or head appears melted, softened, or sagging. The plastic may have bubbled, curved, or collapsed in places, giving the brush a deformed appearance. Color discoloration or shiny, gooey patches may be visible."
+    },
+    {
+        "label": "#14 Peeling Grip or Rubber",
+        "description": "A toothbrush with rubber or grip material coming off the handle. The grip appears torn, flaking, or partially detached. Some parts may dangle or peel back, exposing the plastic underneath. This defect gives the handle a damaged and uncomfortable look."
+    },
+    {
+        "label": "#15 Sticky or Dirty Surface",
+        "description": "A toothbrush with a visibly dirty or sticky handle surface. The plastic is coated with grime, dust, dried toothpaste, or other unknown residues. It may appear greasy, discolored, or stained — suggesting unhygienic storage or infrequent cleaning."
+    },
+    {
+        "label": "#15.1 Partial View (Non-defect)",
+        "description": "A toothbrush that is only partially visible in the image — such as only the bristle side or handle side shown. The incomplete view does not indicate breakage or damage. The brush may be cropped or partially hidden, but it could still be intact."
+    },
+    {
+        "label": "#16 Misaligned Head and Handle",
+        "description": "A toothbrush where the bristle head is misaligned with the handle — it tilts to one side, appears crooked, or is fused at an off angle."
+    },
+    {
+        "label": "#16 Misaligned Head and Handle",
+        "description": "The transition between the handle and the head is visibly uneven, giving the brush a twisted or misfitted look."
+    },
+    {
+        "label": "#16 Misaligned Head and Handle",
+        "description": "This defect may be due to poor assembly or molding error."
+    },
+    {
+        "label": "#17 Off-Color or Faded Plastic",
+        "description": "A toothbrush with plastic parts that are noticeably off-color or faded compared to what’s expected from the brand."
+    },
+    {
+        "label": "#17 Off-Color or Faded Plastic",
+        "description": "The color may appear dull, washed-out, or inconsistent — for example, a pink brush appearing pale or a blue one looking discolored."
+    },
+    {
+        "label": "#17 Off-Color or Faded Plastic",
+        "description": "This defect often indicates material aging, poor dye quality, or storage damage."
+    },
+    {
+        "label": "#18 Misprinted Logo or Text",
+        "description": "A toothbrush where the brand name, logo, or printed text appears incorrect."
+    },
+    {
+        "label": "#18 Misprinted Logo or Text",
+        "description": "The print may be faded, smeared, misaligned, missing entirely, or printed in the wrong color."
+    },
+    {
+        "label": "#18 Misprinted Logo or Text",
+        "description": "Sometimes the logo is partially rubbed off, duplicated, or shifted off-center."
+    },
+    {
+        "label": "#18 Misprinted Logo or Text",
+        "description": "This gives the brush an unprofessional or counterfeit appearance."
+    },
+    {
+        "label": "#19 Defective Molding",
+        "description": "A toothbrush with visible signs of plastic molding issues — such as air bubbles, rough seams, flashing (extra plastic edges), or an irregular shape."
+    },
+    {
+        "label": "#19 Defective Molding",
+        "description": "These imperfections often appear near the handle edges or around the brush head, suggesting low-quality manufacturing or problems in the injection mold process."
+    },
+    {
+        "label": "#20 Chemical Odor",
+        "description": "A toothbrush that emits a strong, unnatural chemical smell upon opening or handling."
+    },
+    {
+        "label": "#20 Chemical Odor",
+        "description": "The odor may resemble paint, plastic solvent, glue, or industrial cleaning agents."
+    },
+    {
+        "label": "#20 Chemical Odor",
+        "description": "This kind of scent raises concerns about residual manufacturing chemicals or unsafe materials."
+    },
+    {
+        "label": "#20 Chemical Odor",
+        "description": "Even if the brush looks visually clean and new, a persistent or pungent smell can indicate contamination or improper processing."
+    },
+    {
+        "label": "#20 Chemical Odor",
+        "description": "However, a faint new-plastic scent is normal and should not be mistaken for a defect unless it’s overpowering, unpleasant, or causes discomfort when smelled up close."
+    },
+    {
+        "label": "#21 Sticky or Oily Surface",
+        "description": "A toothbrush that feels greasy, sticky, or oily to the touch, even though no visible liquid or grime is present."
+    },
+    {
+        "label": "#21 Sticky or Oily Surface",
+        "description": "This texture can occur on the handle, grip, or near the head, making the brush uncomfortable or unsanitary to hold."
+    },
+    {
+        "label": "#21 Sticky or Oily Surface",
+        "description": "The surface may attract lint or dust more easily."
+    },
+    {
+        "label": "#21 Sticky or Oily Surface",
+        "description": "This can be caused by residue from packaging materials, plasticizers leaching out of the plastic, or improper post-manufacturing cleaning."
+    },
+    {
+        "label": "#21 Sticky or Oily Surface",
+        "description": "If the brush simply has a shiny or glossy surface but feels dry and clean, it is not a defect — visual glossiness without residue is acceptable."
+    },
+    {
+        "label": "#22 Open or Damaged Packaging",
+        "description": "A toothbrush found with packaging that is ripped, torn, tampered, or unsealed."
+    },
+    {
+        "label": "#22 Open or Damaged Packaging",
+        "description": "The plastic casing may be cracked, the cardboard backing detached, or the glue and seal improperly applied."
+    },
+    {
+        "label": "#22 Open or Damaged Packaging",
+        "description": "This raises hygiene concerns, as the brush may have been exposed to contaminants during shipping or storage."
+    },
+    {
+        "label": "#22 Open or Damaged Packaging",
+        "description": "A damaged package might still contain a visually perfect brush — but any breach in the seal means the product can no longer be guaranteed sterile or unused."
+    },
+    {
+        "label": "#22 Open or Damaged Packaging",
+        "description": "However, if the brush is shown alone in an image (e.g., already removed from packaging), that does not automatically indicate this defect."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "A toothbrush that shows visible signs of mold or fungus growth inside sealed or unopened packaging."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "Black, green, or white fungal spots may appear on the bristles, head, or inside the plastic wrapping."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "This typically results from moisture getting trapped during packing or improper storage in humid environments."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "The mold may appear fuzzy or speckled."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "Even if the brush was never used, such contamination renders it unsafe."
+    },
+    {
+        "label": "#23 Mold Inside Packaging",
+        "description": "Colored bristles or darker brush heads should not be confused with mold — unless there is visible fuzzy, patchy, or speckled microbial texture, it’s not a defect."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "A toothbrush labeled as having soft bristles, but the bristles feel overly firm or stiff to the touch."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "When pressed against a surface, the bristles barely flex or bend."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "This mislabeling defect can lead to gum discomfort or tooth abrasion."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "The brush may appear visually soft — with no outward defect — but the tactile experience contradicts the packaging."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "This is especially problematic for users with sensitive gums or for children."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "However, firm bristles are not a defect if they are correctly labeled as 'medium' or 'hard'."
+    },
+    {
+        "label": "#24 Too Hard Bristles (Mislabeling)",
+        "description": "Only mislabeled bristle softness is considered a usability defect."
+    },
+{
+    "label": "#25 Oversized Head",
+    "description": "A toothbrush with a head that is too large relative to the intended user, especially if marketed for children or individuals with small mouths."
+  },
+  {
+    "label": "#25 Oversized Head",
+    "description": "The brush head may cover too much surface area, making it difficult to clean tight spaces or fit comfortably in the mouth."
+  },
+  {
+    "label": "#25 Oversized Head",
+    "description": "While adult brushes naturally have larger heads, this becomes a defect when the brush is visibly oversized compared to standard children's brushes or labeled incorrectly."
+  },
+  {
+    "label": "#25 Oversized Head",
+    "description": "A larger head is acceptable if it matches the packaging intent (e.g., ‘adult large’), so only improper sizing or misrepresentation is considered defective."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "A toothbrush with a poorly designed handle or grip that causes it to slip easily during use."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "The handle may lack textured material, rubber zones, or ergonomic curves, making it uncomfortable or hard to control — especially with wet hands."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "The shape might be too thin, too wide, or smooth all over."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "This kind of defect results in reduced brushing effectiveness and user frustration."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "Aesthetic minimalism is acceptable, but when the grip design clearly compromises usability or comfort, it is considered a functional flaw."
+  },
+  {
+    "label": "#26 Poor Grip Design",
+    "description": "However, brushes without rubber grips aren’t defective unless they cause slippage."
+  },
+  {
+    "label": "#27 Inaccessible Corner Bristles",
+    "description": "A toothbrush where the design of the head or bristle arrangement prevents it from reaching into tight spaces like the back molars or inner gum line."
+  },
+  {
+    "label": "#27 Inaccessible Corner Bristles",
+    "description": "The head may be too wide, too square, or poorly angled, making it difficult to clean corners or between teeth."
+  },
+  {
+    "label": "#27 Inaccessible Corner Bristles",
+    "description": "The bristles may not be tapered or angled properly to access narrow zones."
+  },
+  {
+    "label": "#27 Inaccessible Corner Bristles",
+    "description": "This defect isn’t about physical damage but rather poor ergonomic or structural design."
+  },
+  {
+    "label": "#27 Inaccessible Corner Bristles",
+    "description": "Brushes with unique shapes aren’t defective unless they objectively prevent access to common areas of the mouth during brushing."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "A toothbrush that appears completely new and unused."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "The bristles are clean, straight, and uniform — no signs of fraying, bending, discoloration, or wear."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "The handle is spotless with no residue or scuff marks."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "The toothbrush may still be in original packaging or shown without any visible contact with toothpaste or water."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "Bristles stand upright and stiff, usually symmetrical."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "This condition reflects a freshly manufactured or store-bought item."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "It should not be marked defective."
+  },
+  {
+    "label": "#28 New and Unused",
+    "description": "Even if the color is unique or the packaging is opened carefully, as long as there are no signs of use, the brush is considered new."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "A toothbrush that shows light signs of use but remains in good condition."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "The bristles may be slightly softened or have minor curves but are still largely straight and intact."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "The head and handle appear clean with minimal wear, and no mold, grime, or missing bristles."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "This type of brush is functional, hygienic, and acceptable for continued use."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "The usage signs are typical of a brush that's been in use for a short time — less than 2–3 months."
+  },
+  {
+    "label": "#29 Used but Good",
+    "description": "This is not a defect, just a normal wear phase that doesn't affect the toothbrush's cleaning ability."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "A toothbrush that has clearly passed its usable life."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "The bristles are visibly frayed, bent, discolored, or uneven in height."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "There may be bald spots, fading colors, or surface stains."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "The handle might also show wear or feel tacky."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "This condition indicates long-term use, typically beyond 3 months."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "Such brushes are no longer effective at cleaning teeth and may harbor bacteria."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "Even if the brush has no visible contamination or physical breakage, the wear level alone is enough to classify it as expired or overused."
+  },
+  {
+    "label": "#30 Expired or Overused",
+    "description": "Users should be encouraged to replace it for hygiene and performance reasons."
+  },
+  {
+    "label": "#31 Unknown Condition",
+    "description": "A toothbrush image where the condition cannot be clearly determined."
+  },
+  {
+    "label": "#31 Unknown Condition",
+    "description": "This may be due to poor image quality, low resolution, motion blur, bad lighting, heavy shadowing, or partial obstruction."
+  },
+  {
+    "label": "#31 Unknown Condition",
+    "description": "The bristles, head, or handle may not be visible enough to judge wear, cleanliness, or defects."
+  },
+  {
+    "label": "#31 Unknown Condition",
+    "description": "This class accounts for uncertainty — the brush might be new, used, or damaged, but the available visual data is insufficient to decide confidently."
+  },
+  {
+    "label": "#31 Unknown Condition",
+    "description": "This label should not be confused with a defect — it simply reflects inadequate visibility or image limitations, not an actual flaw in the toothbrush."
+  }
+]

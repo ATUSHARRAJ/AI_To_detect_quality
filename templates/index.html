@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Toothbrush Defect Detector</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            margin-top: 60px;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 700px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input[type="file"] {
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result {
+            margin-top: 40px;
+        }
+
+        .result h3, .result h4 {
+            margin-bottom: 10px;
+            color: #444;
+        }
+
+        .uploaded-image {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .uploaded-image img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 4px;
+            margin-top: 10px;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            background-color: #f1f3f6;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            font-size: 15px;
+        }
+
+        .score {
+            color: #666;
+            font-size: 13px;
+        }
+
+        .highlight {
+            color: #007BFF;
+            font-weight: bold;
+        }
+
+        .section-title {
+            font-size: 17px;
+            margin-top: 25px;
+            border-left: 4px solid #007BFF;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🪥 Toothbrush Defect Classifier (CLIP)</h2>
+
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="image" accept="image/*" required>
+            <button type="submit">🔍 Detect Defect</button>
+        </form>
+
+        {% if result.top_label %}
+        <div class="result">
+            <div class="uploaded-image">
+                <div class="section-title">📸 Uploaded Image:</div>
+                <img src="{{ url_for('static', filename='uploaded_image.jpg') }}" alt="Uploaded Image">
+            </div>
+
+            <div class="section-title">🔍 Best Match:</div>
+            <p><span class="highlight">{{ result.top_label }}</span></p>
+            <p class="score">Confidence Score: {{ "%.4f"|format(result.top_score) }}</p>
+
+            <div class="section-title">🏆 Top 3 Predictions:</div>
+            <ul>
+                {% for label, score in result.top3 %}
+                <li>{{ label }}<br><span class="score">Score: {{ "%.4f"|format(score) }}</span></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
