@@ -4,6 +4,42 @@
         "description": "new colorful toothbrush with bright, clean, straight bristles and no damage"
     },
     {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "new colorful toothbrush with bright, clean, straight bristles and no damage"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "bristles are uniform in length and tightly packed with no signs of wear or fraying"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "toothbrush head is clean with no visible stains, dirt, or deformities"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "the handle and neck appear glossy, smooth, and free from cracks or buildup"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "bristles maintain their original shape and stand upright with no bends"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "the colors on the brush are vivid and consistent without any discoloration"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "overall appearance suggests the brush is either unused or recently unboxed"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "there are no signs of toothpaste residue, dirt particles, or bristle distortion"
+    },
+    {
+      "label": "#0 New or Glossy (Not Defective)",
+      "description": "toothbrush appears factory-fresh and hygienic, with a smooth bristle tip finish"
+    },
+    {
         "label": "#0.1 Not Defective Unless Other Signs",
         "description": "If a toothbrush appears colored, glossy, or has darker bristles or handles — that alone does not indicate a defect. Only when accompanied by texture issues, chemical smell, visible mold, or improper shape should it be considered defective."
     },
@@ -34,6 +70,58 @@
     {
         "label": "#7 Contaminated Bristles",
         "description": "A toothbrush with bristles that have visible foreign particles stuck in them, such as hair strands, food bits, lint, or dust. The contamination may be obvious even at a glance. The bristles appear dirty or sticky, showing signs of unhygienic storage or exposure to unsanitary environments."
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "The bristles show visible signs of contamination from dirt, mold, dried toothpaste buildup, food particles, or any other foreign or unsanitary substances"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "This often results in an unhealthy or unclean appearance"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Contamination may appear as dark spots, discoloration, sticky patches, fuzz, or particles entangled in the bristles"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "The condition suggests the toothbrush has been exposed to improper storage, poor hygiene, or external pollutants"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Moldy patches or dark spots may be visible on the bristles"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "There may be presence of debris or dried substances like hardened toothpaste"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Discoloration unrelated to regular wear can include greenish, black, or brown stains"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Clumped or sticky bristles may indicate residue buildup"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Such brushes should be discarded immediately"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Contaminated bristles pose a hygiene risk and can harbor bacteria that may affect oral health"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Natural bristle colors are usually consistent, smooth, and evenly distributed by design"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "Contaminated color tends to be patchy, uneven, and may appear suddenly in localized regions"
+    },
+    {
+      "label": "Contaminated Bristles",
+      "description": "If the color appears sticky, fuzzy, or with texture differences from the rest of the brush, it is likely contamination rather than factory coloring"
     },
     {
         "label": "#8 Mold/Fungus on Bristles",
